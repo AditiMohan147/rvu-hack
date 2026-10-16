@@ -1,0 +1,9 @@
+# Q-Evac: Quantum-Based Emergency Exit Selection
+# Requirements for RV University Qiskit Quantum Computing Hackathon
+
+qiskit>=1.0.0
+qiskit-aer>=0.14.0
+networkx>=3.0
+matplotlib>=3.7.0
+streamlit>=1.30.0
+numpy>=1.24.0
